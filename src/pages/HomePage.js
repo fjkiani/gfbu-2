@@ -9,12 +9,12 @@ const HomePage = () => {
       <Hero/>
       <FeaturedProducts />
       <Services />
-      <SlideShow/>
+      {/* <SlideShow/> */}
       <hr/>  
       <OurServices/>
       <Contact title="Join our Newsletter for Recipes " subTitle="from Chef Uzma" />
       <Accordion/>
-      <Reviews/>
+      {/* <Reviews/> */}
 
     </main>
   )
