@@ -30,11 +30,7 @@ export const links = [
     text: 'contact',
     url: '/contact',
   },
-  // {
-  //   id: 6,
-  //   text: 'reserve',
-  //   url: '/#',
-  // },
+
   {
     id: 7,
     text: 'catering',
